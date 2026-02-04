@@ -16,3 +16,6 @@ book/
 
 # Contributor guide (local-only)
 AGENTS.md
+
+# Local SSH keys for automation
+.ssh/
