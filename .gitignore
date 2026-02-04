@@ -1,0 +1,15 @@
+﻿# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Results/artifacts
+results/
+
+# Books (do not track)
+book/
