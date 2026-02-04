@@ -13,3 +13,6 @@ results/
 
 # Books (do not track)
 book/
+
+# Contributor guide (local-only)
+AGENTS.md
