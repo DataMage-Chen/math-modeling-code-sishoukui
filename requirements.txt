@@ -1,1 +1,4 @@
 gurobipy
+numpy
+scipy
+matplotlib
